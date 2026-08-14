@@ -20,3 +20,11 @@ with open("students.csv", "r") as file:
 
     for row in reader:
         print(row)
+
+## expected output
+
+CSV file created successfully.
+['Name', 'Age', 'Course']
+['Yatharth', '20', 'B.Tech IT']
+['Rahul', '21', 'B.Tech CSE']
+['Aman', '20', 'B.Tech IT']
