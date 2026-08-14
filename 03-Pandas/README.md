@@ -13,9 +13,7 @@ Hands-on learning and practice with **Pandas** for Data Science.
 - GroupBy and aggregation
 - Creating and modifying columns
 
-## 📓 Learning Notebook
 
-[01 - Pandas Fundamentals](./01-Pandas-Fundamentals.ipynb)
 
 ## 🛠️ Tools
 
